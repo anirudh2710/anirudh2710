@@ -7,7 +7,6 @@ CS grad @ University at buffalo, SUNY
 * 🌍  I'm based in Minneapolis, MN
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/anirudh-sowmyanarayanan/)
 * ✉️  You can contact me at [anirudh.sowmyanarayanan@gmail.com](mailto:anirudh.sowmyanarayanan@gmail.com)
-* 🧠  I'm learning MLOps
 
 ### Skills
 
