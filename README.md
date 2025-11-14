@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anirudh Sowmyanarayanan
 ===============================================================================================================================================
 
-CS grad @ University at buffalo, SUNY
--------------------------------------
+Ex-Software Engineer from American Express
+------------------------------------------
 
-* 🌍  I'm based in Minneapolis, MN
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/anirudh-sowmyanarayanan/)
+* 🌍  I'm based in Plantation, Florida
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/anirudh2710/)
 * ✉️  You can contact me at [anirudh.sowmyanarayanan@gmail.com](mailto:anirudh.sowmyanarayanan@gmail.com)
 
 ### Skills
