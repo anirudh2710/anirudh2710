@@ -4,10 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ex-Software Engineer from American Express
 ------------------------------------------
 
-* 🌍  I'm based in Plantation, Florida
-* 🎓  I'm a CS grad from SUNY Buffalo
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/anirudh2710/)
-* ✉️  You can contact me at [anirudh.sowmyanarayanan@gmail.com](mailto:anirudh.sowmyanarayanan@gmail.com)
+*  I'm based in Plantation, Florida
+*  I'm a CS grad from SUNY Buffalo
+*  I worked as a front-end developer in American Express over a year.
+*  See my portfolio at [LinkedIn](http://www.linkedin.com/in/anirudh2710/)
+*  You can contact me at [anirudh.sowmyanarayanan@gmail.com](mailto:anirudh.sowmyanarayanan@gmail.com)
 
 
 
